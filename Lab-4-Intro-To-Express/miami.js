@@ -6,7 +6,7 @@ const exppressHandlebars = require('express-handlebars')
 const app = express();
 
 //configure our express app to use handlebars
-app.engine('handlebars', exppressHandlebars({
+app.engine('handlebars', exppressHandlebars.engine({
     defaultLayout:'main',
 }))
 
@@ -42,7 +42,7 @@ app.use((error,req, res,next)=>{
     res.render('500')
 })
 
-//setup listener
+//setup listener/start the server
 app.listen(port,()=>{
     console.log(`server started http://localhost:${port}`)
     //console.log(`server started http://localhost:`+ port) // this and the one above are the same thing
