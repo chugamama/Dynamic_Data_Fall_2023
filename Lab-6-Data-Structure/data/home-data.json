@@ -1,0 +1,30 @@
+{
+    "title":"Welcome To Miami - from data source",
+    "slideshow": [
+        "/img/slides/miamibeach.jpg",
+        "/img/slides/skyline.jpg",
+        "/img/slides/bayside.jpg"
+    ],
+    "services": [
+        {
+            "title":"Transportation",
+            "intro": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit recusandae explicabo aperiam vitae deserunt nisi itaque eveniet, natus minima soluta unde inventore velit saepe atque harum facilis quas aut.",
+            "list": [
+                "Service 1",
+                "Service 2",
+                "Service 3"
+            ],
+            "image": "/img/homepage/transportation.jpg"
+        },
+        {
+            "title":"Miami Tours",
+            "intro": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit recusandae explicabo aperiam vitae deserunt nisi itaque eveniet, natus minima soluta unde inventore velit saepe atque harum facilis quas aut.",
+            "list": [
+                "Service 1",
+                "Service 2",
+                "Service 3"
+            ],
+            "image": "/img/homepage/tours.jpg"
+        }
+    ]
+}
