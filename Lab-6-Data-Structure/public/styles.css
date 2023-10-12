@@ -5,10 +5,58 @@
 .poppins{font-family: 'Poppins', sans-serif; font-weight: 400;}
 .poppins-bold{font-family: 'Poppins', sans-serif; font-weight: 700;}
 
-body{
+/* body{
     background-color: #cccccc;
 }
+*/
 
 .white-bg{
     background-color: #ffffff;
+}
+
+.primary-color{
+    color:#550000;
+}
+
+.primary-color-light, nav .secondary-color-light:hover{
+    color: #FFAAAA
+}
+
+.accordion-button:not(.collapsed){
+    color:#440026;
+    background-color: #FFAAAA;
+}
+
+.primary-color-bg{
+    background-color:#550000;
+}
+
+.primary-color-light-bg{
+    background-color: #FFAAAA;
+}
+
+.secondary-color{
+    color: #440026;
+}
+
+.secondary-color-light{
+    color: #CD88AF;
+}
+
+.secondary-color-bg{
+    background-color: #440026;
+}
+
+.secondary-color-light-bg{
+    background-color: #CD88AF;
+}
+
+/* remove owl-nav previous and next button */
+
+.owl-nav{
+    display: none;
+}
+
+.section-divider{
+    padding: 1rem;
 }

@@ -26,5 +26,49 @@
             ],
             "image": "/img/homepage/tours.jpg"
         }
+    ],
+    "packages":[
+        {
+            "title":"Beach Day",
+            "image": "/img/homepage/beach.jpg",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "price": "1500",
+            "duration": "1 day"
+        },
+        {
+            "title":"Zoo Weekend",
+            "image": "/img/homepage/zoo_weekend.jpg",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "price": "500",
+            "duration": "3 day"
+        },
+        {
+            "title":"Islamorada Trip",
+            "image": "/img/homepage/island.jpg",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "price": "3500",
+            "duration": "4 day"
+        },
+        {
+            "title":"Paddle Boarding",
+            "image": "/img/homepage/paddleboarding.jpg",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "price": "100",
+            "duration": "1 day"
+        },
+        {
+            "title":"SoBe Segway Tour",
+            "image": "/img/homepage/segway.jpg",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "price": "300",
+            "duration": "1 day"
+        },
+        {
+            "title":"Kayak",
+            "image": "/img/homepage/kayak.jpg",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "price": "100",
+            "duration": "1 day"
+        }
     ]
 }

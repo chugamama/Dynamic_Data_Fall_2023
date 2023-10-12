@@ -10,9 +10,24 @@
     <link rel="stylesheet" href="/css/bootstrap.css">
     <link rel="stylesheet" href="/styles.css">
 </head>
-<body>
+
+<body class="primary-color-light-bg poppins">
+
+<div class="container-fluid primary-color-bg"> 
+    {{> navbar}} 
+        {{#if data.slideshow}}
+        <!-- Set up your HTML -->
+        <div class=" owl-slideshow owl-carousel owl-theme">
+            {{#each data.slideshow}}
+        <div class="item">
+            <img class="img-fluid" src="{{this}}" alt="">
+            </div>
+        {{/each}}
+        </div>
+        {{/if}}
+</div>
+
 <div class="container-lg white-bg">
-    {{> navbar}}
     <header>
     </header>
     {{{body}}}
@@ -26,7 +41,9 @@
     <script src="/js/owl/owl.carousel.min.js"></script>
 
     <script>
-            $('.owl-carousel').owlCarousel({
+     $(function(){
+        //slideshow
+        $('.owl-slideshow').owlCarousel({
         loop:true,
         margin:0,
         nav:true,
@@ -41,7 +58,25 @@
                 items:1
             }
         }
+        })
+        //packages
+        $('.owl-packages').owlCarousel({
+        loop:true,
+        margin:10,
+        nav:true,
+        responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:2
+            },
+            1000:{
+                items:3
+            }
+        }
 })
+    })
     </script>
   <!--  <script>
         $(function(){
