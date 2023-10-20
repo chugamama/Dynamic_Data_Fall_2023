@@ -1,0 +1,78 @@
+{
+    "title":"Welcome To Panamá",
+    "description":"Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit recusandae explicabo aperiam vitae deserunt nisi itaque eveniet",
+    "slideshow": [
+        "/img/slides/slide1.jpg",
+        "/img/slides/slide2.jpg",
+        "/img/slides/slide3.jpg",
+        "/img/slides/slide4.jpg",
+        "/img/slides/slide5.jpg"
+    ],
+    "services": [
+        {
+            "title":"Transportation",
+            "intro": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit recusandae explicabo aperiam vitae deserunt nisi itaque eveniet, natus minima soluta unde inventore velit saepe atque harum facilis quas aut.",
+            "list": [
+                "Service 1",
+                "Service 2",
+                "Service 3"
+            ],
+            "image": "/img/homepage/transportation.jpg",
+            "show": "show"
+        },
+        {
+            "title":"Miami Tours",
+            "intro": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit recusandae explicabo aperiam vitae deserunt nisi itaque eveniet, natus minima soluta unde inventore velit saepe atque harum facilis quas aut.",
+            "list": [
+                "Service 1",
+                "Service 2",
+                "Service 3"
+            ],
+            "image": "/img/homepage/tours.jpg"
+        }
+    ],
+    "packages":[
+        {
+            "title":"Panama Canal",
+            "image": "/img/homepage/canal.jpg",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "price": "1500",
+            "duration": "1 day"
+        },
+        {
+            "title":"San Blas",
+            "image": "/img/homepage/sanblas.jpg",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "price": "500",
+            "duration": "3 day"
+        },
+        {
+            "title":"Biomuseo",
+            "image": "/img/homepage/biomuseo.jpg",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "price": "3500",
+            "duration": "4 day"
+        },
+        {
+            "title":"Casco Antiguo",
+            "image": "/img/homepage/casco.jpg",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "price": "100",
+            "duration": "1 day"
+        },
+        {
+            "title":"Volcan Baru",
+            "image": "/img/homepage/baru.jpg",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "price": "300",
+            "duration": "1 day"
+        },
+        {
+            "title":"Bocas del Toro",
+            "image": "/img/homepage/bocas.jpg",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+            "price": "100",
+            "duration": "1 day"
+        }
+    ]
+}
