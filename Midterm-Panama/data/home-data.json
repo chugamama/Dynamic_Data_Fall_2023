@@ -1,6 +1,6 @@
 {
     "title":"Welcome To Panamá",
-    "description":"Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit recusandae explicabo aperiam vitae deserunt nisi itaque eveniet",
+    "description":"Panama, a fascinating Central American country, strikes the perfect balance between natural wonders, a vibrant culture, and economic vitality. Famous for the iconic Panama Canal, which connects the Caribbean Sea and the Pacific Ocean, Panama is a hub of global trade. Its stunning landscapes range from lush rainforests to pristine beaches, making it an ideal spot for eco-tourism and adventure seekers. With a diverse population blending indigenous, Afro-Caribbean, and Spanish influences, Panama boasts a unique fusion of traditions, music, and food. Its robust economy and stable democracy make it a place where the modern and the traditional coexist harmoniously, making Panama an exciting destination for travelers and investors alike.",
     "slideshow": [
         "/img/slides/slide1.jpg",
         "/img/slides/slide2.jpg",
@@ -10,69 +10,72 @@
     ],
     "services": [
         {
-            "title":"Transportation",
-            "intro": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit recusandae explicabo aperiam vitae deserunt nisi itaque eveniet, natus minima soluta unde inventore velit saepe atque harum facilis quas aut.",
+            "title":"Accommodations",
+            "intro": "Panama offers a diverse range of accommodations to suit every traveler's preferences and budget. From luxurious hotels with stunning views of the Panama Canal and the Pacific Ocean to budget-friendly hostels in the heart of vibrant cities, and cozy Airbnb rentals that provide a home away from home, Panama caters to a variety of tastes.",
             "list": [
-                "Service 1",
-                "Service 2",
-                "Service 3"
+                "Handicap Friendly",
+                "Pool",
+                "Free WiFi",
+                "Pet Friendly",
+                "Free Parking"
             ],
-            "image": "/img/homepage/transportation.jpg",
+            "image": "/img/homepage/accomodation.jpg",
             "show": "show"
         },
         {
-            "title":"Miami Tours",
-            "intro": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit recusandae explicabo aperiam vitae deserunt nisi itaque eveniet, natus minima soluta unde inventore velit saepe atque harum facilis quas aut.",
+            "title":"Airport Transportation",
+            "intro": "There are three different ways to get from Panama airport to Panama City; taxi, bus or metro. Taking a taxi from Panama City airport to downtown is the quickest way to travel, with a journey time of just 25 minutes and a set cost of $30 (€28). Taking the metro is the cheapest option, as it costs just $0.60 (€0.50) per traveller, but it is also the slowest transfer option as it is not direct, with a journey time of 1 hour. Your final option is the bus, which takes 50 minutes to get from Panama airport to the city and costs $1.25 (€1.20) one-way. Credit: welcomepickups.com.",
             "list": [
-                "Service 1",
-                "Service 2",
-                "Service 3"
+                "Taxi",
+                "Metro",
+                "Bus",
+                "Private Airport Transfer Company"
             ],
-            "image": "/img/homepage/tours.jpg"
+            "image": "/img/homepage/taxi.jpg"
         }
     ],
     "packages":[
         {
-            "title":"Panama Canal",
+            "title":"Panama Canal Full Transit Boat Tour",
             "image": "/img/homepage/canal.jpg",
-            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            "price": "1500",
-            "duration": "1 day"
+            "text": "This narrated tour of the Panama Canal travels the full width of the Isthmus of Panama, starting from the Pacific Ocean. Set out from your hotel in Panama City and end in Colón, on the coast of the Caribbean Sea. En route you’ll pass through Miraflores Locks and stop by the visitor center. Credit:TripAdvisor",
+            "price": "$290.00",
+            "duration": "10 to 11 hours"
         },
         {
             "title":"San Blas",
             "image": "/img/homepage/sanblas.jpg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-            "price": "500",
-            "duration": "3 day"
+            "text": "The palm-fringed beaches and traditional villages of the San Blas Islands lie just east of Colon along Panama’s Caribbean coast. On this tour, visit multiple islands in one day such as Aguja, Pelicano, and Perro islands; enjoy fun activities such as swimming, snorkeling, and kayaking; visit a sunken shipwreck; and take a swim in a natural pool. Credit: Tripadvisor",
+            "price": "$159.00",
+            "duration": "14 hours"
         },
         {
             "title":"Biomuseo",
             "image": "/img/homepage/biomuseo.jpg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-            "price": "3500",
-            "duration": "4 day"
+            "text": "Designed by world-renowned architect Frank Gehry, the Biomuseo is his only work in Latin America and the tropics. The building was designed to tell the story of how the isthmus of Panama rose from the sea, uniting two continents, separating a vast ocean in two, and changing the planet's biodiversity forever. Credit: Tripadvisor",
+            "price": "$18.00",
+            "duration": "2 hours"
         },
         {
             "title":"Casco Antiguo",
             "image": "/img/homepage/casco.jpg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-            "price": "100",
+            "text": "This charming old community’s churches, pedestrian walkways and historical plazas and palaces make it a must-see on any tour.",
+            "price": "Free",
             "duration": "1 day"
         },
         {
-            "title":"Volcan Baru",
+            "title":"Volcan Baru Hike",
             "image": "/img/homepage/baru.jpg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-            "price": "300",
-            "duration": "1 day"
+            "text": "Looking for an experience in Panama like no other? What about catching the sunrise at the top of a (dormant) volcano? Yes! The Volcan Baru sunrise hike is the Boquete tour you are looking for. Yes, it is physically demanding... prepare to do some work... but your sweet reward is about the sweetest you can imagine! Did we mention viral photo ops? The summit of Volcan Baru offers panoramic views all the way into Costa Rica! Credit:the panama tourist site",
+            "price": "$74.00",
+            "duration": "8 hours"
         },
         {
-            "title":"Bocas del Toro",
+            "title":"Bocas del Toro Snorkeling Tour",
             "image": "/img/homepage/bocas.jpg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-            "price": "100",
-            "duration": "1 day"
+            "text": "Panama's Bocas del Toro archipelago of islands covers a large area. This speedboat tour from Bocas Town includes the most popular spots in one day. See the dolphins of Dolphin Bay, snorkel around the Zapatilla Islands and explore their white sand beaches, look for sloths on Sloth Island, and enjoy a fresh Caribbean seafood lunch (not included). Credit: Tripadvisor",
+            "price": "$67.70",
+            "duration": "7 hours"
         }
     ]
 }

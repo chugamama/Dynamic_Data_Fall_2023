@@ -1,0 +1,75 @@
+{
+    "title":"Panama's Islands",
+    "description":"Panamá features over 1,000 islands in both the Pacific and the Caribbean. A few of them are home to picturesque coastal towns, but most of them are completely uninhabited. In Panamá's islands and archipelagos, you will find breathtaking beaches and miles of protected coral reef, which shelter a wide diversity of marine life. Here are some of Panamá's island destinations. Credit: tourismpanama",
+    "slideshow": ["/img/slides/islas.jpg"],
+    "services": [
+        {
+            "title":"Panamanian Cuisine",
+            "intro": "Panamanian cuisine is a mix of African, Spanish, and Native American techniques, dishes, and ingredients, reflecting its diverse population.",
+            "list": [
+                "Carimañolas",
+                "Sancocho",
+                "Arroz con pollo",
+                "Tamales"
+            ],
+            "image": "/img/islas/tamal.jpg",
+            "show": "show"
+        },
+        {
+            "title":"Adventure Seekers",
+            "intro": "Things to Do",
+            "list": [
+                "Year-round Fishing",
+                "Hiking and Waterfalls",
+                "Surf Trips",
+                "Beach Getaway",
+                "Diving and Snorkeling"
+            ],
+            "image": "/img/islas/adventure.jpg"
+        }
+    ],
+    "packages":[
+        {
+            "title":"Full-Day Gatun Lake and Indian Village Tour",
+            "image": "/img/islas/gatun.jpg",
+            "text": "Combine some of the most popular day trips from Panama City, Panama into one day of adventure. This tour includes a boat ride on Lake Gatun, which is part of the Panama Canal, a visit to Monkey Island, which is home to three species of monkeys, and a visit to Soberania National Park and an indigenous village. Credit: tripadvisor",
+            "price": "$147.43",
+            "duration": "7 hours"
+        },
+        {
+            "title":"Chagres Rainforest and Embera Indigenous Village Tour",
+            "image": "/img/islas/chagres.jpg",
+            "text": "Encountering traditional Embera communities in Chagres National Park is a memorable part of exploring Panama, but visiting the park with a large group can feel impersonal. Choose a private tour to set your own pace as you cruise a jungle river, hike to a waterfall, and see a performance of traditional song and dance, with round-trip transport from Panama City in the comfort of a private vehicle. Credit: tripadvisor",
+            "price": "$119.00 ",
+            "duration": "7 hours"
+        },
+        {
+            "title":"Fishing and Island Hopping Tour",
+            "image": "/img/islas/fishing.jpg",
+            "text": "Experience a custom fishing charter in Panamas Pearl Islands. This all-day adventure includes a personalized itinerary with an expert crew aboard a Proline 27 speed boat with 150 horse power engines. Using complimentary high-quality gear, reel in the fish of your fantasy, go snorkeling, watch for whales, and enjoy complimentary beer and other drinks. Credit: tripadvisor",
+            "price": "$700",
+            "duration": "8 hours"
+        },
+        {
+            "title":"Embera Village and Culture Tour",
+            "image": "/img/islas/embera.jpg",
+            "text": "Get to know the Embera people and their traditions during this full-day tour from Panama City, Panama. Canoe along the Chagres River through Chagres National Park to reach an Embera community where members are ready to share their traditional dances, music, clothing, and history. Enjoy a lunch of fried fish and patacones (fried plantain discs), then meet handicraft artists and get the chance to buy gifts and souvenirs. Credit: tripadvisor",
+            "price": "$169.00",
+            "duration": "8 hours"
+        },
+        {
+            "title":"Day Tour in San Blas Islands",
+            "image": "/img/islas/sanblas.jpg",
+            "text": "The palm-fringed beaches and traditional villages of the San Blas Islands lie just east of Colon along Panamas Caribbean coast. On this tour, visit multiple islands in one day such as Aguja, Pelicano, and Perro islands; enjoy fun activities such as swimming, snorkeling, and kayaking; visit a sunken shipwreck; and take a swim in a natural pool. Credit:tripadvisor.",
+            "price": "$159.00",
+            "duration": "14 hours"
+        },
+        {
+            "title":"Full-Day Taboga Island Catamaran Tour",
+            "image": "/img/islas/taboga.jpg",
+            "text": "The volcanic island of Taboga is known as the Island of Flowers and lies just off the coast of Panama City. On this tour, cruise out to the island by catamaran and spend a whole day swimming and sunbathing at the islands sandy beaches. Along the way, admire views of Panama City from the water, visit Taboga village, and enjoy lunch and drinks on-board. Credit: Tripadvisor",
+            "price": "$99.00",
+            "duration": "6 hours"
+        }
+    ]
+}

@@ -1,78 +1,74 @@
 {
     "title":"The Panama Canal",
-    "description":"Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit recusandae explicabo aperiam vitae deserunt nisi itaque eveniet",
-    "slideshow": [
-        "/img/slides/slide1.jpg",
-        "/img/slides/slide2.jpg",
-        "/img/slides/slide3.jpg",
-        "/img/slides/slide4.jpg",
-        "/img/slides/slide5.jpg"
-    ],
+    "description":"Arguably the most famous attraction in Panamá is the Panama Canal. As one of the 7 Wonders of the Modern World, the Panama Canal is a must-see for anyone traveling in the country. Built to dramatically decrease the travel time for ships between the Pacific Ocean and the Caribbean Sea, the Canal has seen over 900,000 vessels and counting. At one point this engineering miracle was considered impossible to build, but today, you can see it for yourself. Credit: tourismpanama.com",
+    "slideshow": ["/img/slides/canal.jpg"],
     "services": [
         {
             "title":"Transportation",
-            "intro": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit recusandae explicabo aperiam vitae deserunt nisi itaque eveniet, natus minima soluta unde inventore velit saepe atque harum facilis quas aut.",
+            "intro": "To visit the Canal, the Miraflores Visitor Center is just a 15-minute drive from downtown Panama City. The Agua Clara Locks are a 1-hour drive from the capital, nearby to Colón City in the Atlantic. Credit: visitcanaldepanama",
             "list": [
-                "Service 1",
-                "Service 2",
-                "Service 3"
+                "Drive",
+                "Uber/Taxi",
+                "Private Tour",
+                "Boat Tour"
             ],
-            "image": "/img/homepage/transportation.jpg",
+            "image": "/img/canal/taxicanal.jpg",
             "show": "show"
         },
         {
-            "title":"Miami Tours",
-            "intro": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente fugit recusandae explicabo aperiam vitae deserunt nisi itaque eveniet, natus minima soluta unde inventore velit saepe atque harum facilis quas aut.",
+            "title":"Miraflores Visitor Center",
+            "intro": "The Miraflores Visitor Center is a place where you can live a unique experience.Four exhibition halls portray the Canal’s history, biodiversity, and its functioning and international importance in a dynamic and especially attractive manner.Do you want to see how the ships transit through the Panama Canal locks? The building has a terrace on ground level and bleachers on the 1st level for observing the Canal’s operation, the passage of ships through the locks and how they move. It is the ideal place to take pictures and to hold memories of this engineering marvel. Transits of ships may vary depending on schedule. Credit: visitcanaldepanama",
             "list": [
-                "Service 1",
-                "Service 2",
-                "Service 3"
+                "Exhibition Halls",
+                "Restaurant",
+                "Terrace and Balcony Viewpoints",
+                "Imax Theater"
             ],
-            "image": "/img/homepage/tours.jpg"
+            "image": "/img/canal/tour.jpg"
         }
     ],
     "packages":[
         {
-            "title":"Panama Canal",
-            "image": "/img/homepage/canal.jpg",
-            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-            "price": "1500",
-            "duration": "1 day"
+            "title":"Panama Canal Partial Tour",
+            "image": "/img/canal/partialtour.jpg",
+            "text": "Travel southbound through the Panama Canal during this 6-hour tour from Panama City. With your local guide, board a bus for a 45-minute journey to Gamboa, home of the Panama Canal Dredging Division. Meet your vessel, the Pacific Queen, for a trip through the Gailard cut, the Pedro Miguel Locks and the Miraflores Locks. Admire scenic views of the Centennial Bridge, the Chagres River, and the Bridge of the Americas. Eat a complimentary lunch on board during your journey. Disembark at the Flamenco Marina in Panama City.Credit: tripadvisor.",
+            "price": "$145.00",
+            "duration": "6 hours"
         },
         {
-            "title":"San Blas",
-            "image": "/img/homepage/sanblas.jpg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-            "price": "500",
-            "duration": "3 day"
+            "title":"Ocean to Ocean Panama Canal and Jungle Tour",
+            "image": "/img/canal/ocean2ocean.jpg",
+            "text": "Taking a guided tour of the Panama Canal allows you to hop between the Atlantic and Pacific Oceans with minimum hassle. This experience allows you to see wildlife on the distance in Gatun Lake and enjoy a picnic lunch in San Lorenzo National Park before exploring Fort San Lorenzo, a UNESCO World Heritage Site overlooking the Caribbean Sea. Plus, lunch and round-trip transportation from Panama City hotels are included for added convenience. Credit: tripadvisor",
+            "price": "$114.75",
+            "duration": "8 hours"
         },
         {
-            "title":"Biomuseo",
-            "image": "/img/homepage/biomuseo.jpg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-            "price": "3500",
-            "duration": "4 day"
+            "title":"City Tour and Canal View",
+            "image": "/img/canal/city.jpg",
+            "text": "First-time visitors to Panama City who want an interesting overview will enjoy this day tour. Check out the beautiful colonial-era architecture of the old town, see how the incredible locks of the Panama Canal work, and drive along the Amador Causeway for great city and sea views. As the tour lasts about five hours, you’ll have time to freshen up and enjoy the evening after. Credit: Tripadvisor.",
+            "price": "$25.00 ",
+            "duration": "5 hours"
         },
         {
-            "title":"Casco Antiguo",
-            "image": "/img/homepage/casco.jpg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-            "price": "100",
-            "duration": "1 day"
+            "title":"Panama Canal through the Chagres River",
+            "image": "/img/canal/river.jpg",
+            "text": "Experienced kayakers looking for a challenge while seeing the beautiful natural sights of Panama will love this eight-day small-group tour. Paddle the length of Gatun Lake, which feeds into the Panama Canal, and down the Chagres River. Spot wildlife along the way, including howler monkeys, as well as ships heading toward the canal (at a safe distance!) Sleep in Embera villages overnight.",
+            "price": " $1,897.44 ",
+            "duration": "8 days"
         },
         {
-            "title":"Volcan Baru",
-            "image": "/img/homepage/baru.jpg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-            "price": "300",
-            "duration": "1 day"
+            "title":"E-Bike Tour Around Panama City and Canal",
+            "image": "/img/canal/ebike.jpg",
+            "text": "It is an intermediate tour to get to know a large part of Panama with expert local guides, on the tour we will visit the most representative places in Panama, it will be a complete tour to see the best places in the city, you will be accompanied at all times by a guide who will He will explain and show the secret places where we will continually stop to take photos and we will end with a beautiful view of the Pacific of Panama.Credit: tripadvisor.",
+            "price": "$35.00",
+            "duration": "4 hours"
         },
         {
-            "title":"Bocas del Toro",
-            "image": "/img/homepage/bocas.jpg",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-            "price": "100",
-            "duration": "1 day"
+            "title":"Panama Canal Helicopter Tour",
+            "image": "/img/canal/heli.jpg",
+            "text": "Since it's hard to take in the Panama Canals massive scale from ground level, this 30-minute helicopter tour gives a soaring overview. You will fly from the Pacific-side locks to landmarks including the Culebra Cut and Chagres River, with a pilot/guide to fill you in on canal history and facts. Before touching back down, get impressive skyline views as you fly across Panama City. Credit: tripadvisor.",
+            "price": "$900.00",
+            "duration": "30 minutes"
         }
     ]
 }

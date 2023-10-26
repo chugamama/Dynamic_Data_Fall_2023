@@ -1,0 +1,75 @@
+{
+    "title":"Panama Viejo",
+    "description":"Venture to the eastern suburbs of Panama City and you will find the remaining parts of the original Panama City and former capital of the country. Now a UNESCO Cultural World Heritage Site, the settlement dates back to 1519, when Pedro Arias Dávila and 100 other inhabitants made it their home. The area now known as Panama Viejo was the first permanent European settlement on the Pacific Ocean.When you get there, explore the archeological site of Panama Viejo to see the Old Panama Cathedral, as well as various historical ruins. Next, climb atop the iconic bell tower and look at the Panama City skyline from the citys original “skyscraper.” As you wander, keep in mind that the layout and scale of Old Panama remain largely unchanged from the original form, and no architectural renovations have been made—this means you will have the rare opportunity to walk through history. While you are there, take some time to shop at the artisan market, where you can pick up local crafts and souvenirs. Credit:tourismpanama",
+    "slideshow": ["/img/slides/panamaviejo.jpg"],
+    "services": [
+        {
+            "title":"Travel Requirements",
+            "intro": "To enjoy your trip to Panama, you must comply with the following documents and regulations:",
+            "list": [
+                "Valid passport within at least six months of expiration.",
+                "Return ticket to the country of origin or the next destination to visit",
+                "Proof of economic solvency of at least five hundred dollars (USD $500.00) in cash, credit card, bank reference, work letter, or traveler's checks.",
+                "Address of the place of lodging and purpose of travel.",
+                "Credit: toursimpanama"
+            ],
+            "image": "/img/viejo/travel.jpg",
+            "show": "show"
+        },
+        {
+            "title":"Climate",
+            "intro": "Panama has a hot and humid, tropical climate, with a long rainy season from May to January and a short dry season from January to May. Credit:climateknowledgeportal.",
+            "list": [
+                "The rainy season is between May and December.",
+                "Average annual temperature for the country is 27°C.",
+                "Minimum temperature ranges from 20.1°C and 22.4°C.",
+                "Climate variability in Panama is driven mainly by the El Niño Southern Oscillation, tropical cyclones, and sea surface temperatures."
+            ],
+            "image": "/img/homepage/climate.jpg"
+        }
+    ],
+    "packages":[
+        {
+            "title":"Panama World Heritage Tour",
+            "image": "/img/viejo/heritage.jpg",
+            "text": "This is one of the only tours in Panama that includes the two UNESCO World Heritage Sites inside the City of Panama, encompassing over 500 years of history in the american continent. First, walk through the ruins of the first european settlement on the Pacific, site that was destroyed during an actual pirate raid back in the 1600's. Later stroll through Casco Antiguo, the restored and renovated spanish colonial settlement, second site of the City of Panama.Credit: tripadvisor.",
+            "price": " $137.50 ",
+            "duration": "6 hours"
+        },
+        {
+            "title":"3 Cities of Panama Tour",
+            "image": "/img/viejo/3.jpg",
+            "text": "Enjoy a tour of the most emblematic places in Panama City. Starting with a visit to the ruins of Panama Viejo, then we will visit the Casco Antiguo where we will contemplate the mixture of architectural styles of the time colonial, discovering picturesque squares and colorful streets. Then you will visit the 5th Wonder of the World, The Panama Canal. Credit: tripadvisor.",
+            "price": "$89.00",
+            "duration": "6 hours"
+        },
+        {
+            "title":"Ruins of Panama la Vieja and Casco Colonial Tour",
+            "image": "/img/viejo/ruins.jpg",
+            "text": "You will be able to discover in this tour two sites declared world heritage by UNESCO, I will show you the first city built on the isthmus by the Spanish on the coasts of the Pacific Ocean. We will also visit the museum in the Plaza Mayor Samuel Lewis García de Paredes, where you will learn about the rich history of Panama. Once we visit the ruins we will move 10 kilometers to the southwest to visit the Colonial Quarter, which was where the city moved after the attack by Pirate Henry Morgan. You will know its streets, squares and churches that are still active to this day. Credit: tripadvisor.",
+            "price": "$84.88",
+            "duration": "4 hours"
+        },
+        {
+            "title":"The Walled City Walking Tour",
+            "image": "/img/viejo/walled.jpg",
+            "text": "This is the tour that you need to be able to understand all the other tours that you are planning to take in Panama; since it will show you our beginnings, who we are and from where we come from. I will connect many parts of our history and the history of the world, until we reach our days. Credit: tripadvisor ",
+            "price": "$115.00 ",
+            "duration": "4 hours"
+        },
+        {
+            "title":"City Sightseeing Panama City Hop-On Hop-Off Bus Tour",
+            "image": "/img/viejo/bus.jpg",
+            "text": "A hop-on hop-off bus tour is one of the best ways to get oriented to a destination. This city sightseeing double-decker bus guarantees 360-degree views of Panama City from the open-top deck. Stay on board for the full loop and listen to the informative audio tour, or disembark at any of the stops to explore independently. Credit: Tripadvisor",
+            "price": "$20.00",
+            "duration": "1 day"
+        },
+        {
+            "title":"The City Safari Tour",
+            "image": "/img/viejo/safari.jpg",
+            "text": "Feel the exhilaration of cruising through Panama City in the coolest car in town, a bright green 1971 VW Safari. Turn the music up and feel the wind in your hair as you are chauffeured through our dazzling city with the top down.",
+            "price": "$49.99",
+            "duration": "2 hours"
+        }
+    ]
+}

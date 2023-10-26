@@ -1,0 +1,63 @@
+{
+    "title":"Panama's National Parks",
+    "description":"In its natural beauty, its biodiversity and unparalleled landscapes, Panamá is incomparable. More than a third of the country is conformed by protected natural reserves, focused on the conservation of its ecosystems. Most of these protected areas are part of the National Park system, which includes 13 national and marine parks, and one international park. Some of these parks are near the heart of the city, just 30 minutes away from downtown. Here are some National Parks all around the country for your next nature-filled adventure in Panamá. Credit: tourismpanama ",
+    "slideshow":["/img/slides/parquenacional.jpg"],
+    "services": [
+        {
+            "title":"Currency",
+            "intro": "The Panamanian balboa (PAB) is the national currency of the Republic of Panama, which circulates alongside the U.S. dollar (USD), to which the PAB is pegged at par (1:1).",
+            "image": "/img/parks/balboa.jpg",
+            "show": "show"
+        },
+        {
+            "title":"Souvenirs",
+            "intro": "Everything there is to buy in Panama is directly related to its rich blend of cultures. Panamanian handicrafts are extremely varied, which will make it easy for you to find more than one souvenir to take home with you. Credit: exoticca",
+            "list": [
+                "Molas",
+                "Leather handicrafts",
+                "Panama Hat",
+                "Belmont Stone",
+                "Chácaras"
+            ],
+            "image": "/img/parks/souvenirs.jpg"
+        }
+    ],
+    "packages":[
+        {
+            "title":"Baru Volcano National Park",
+            "image": "/img/parks/baru.jpg",
+            "text": "Visit the highest point in the country, which also happens to be a volcano! At 3,474 meters high, the towering Baru Volcano is the 12th highest peak in Central America and the only place in the world where, on the clearest of days, you can see the Atlantic and Pacific Oceans at the same time. The Volcano and its surrounding land feature five different ecosystems thanks to a combination of rainforest highlands, as well as the byproducts of volcanic eruptions that occurred millions of years ago.",
+            "getting there": "The Baru Volcano is located in the Chiriqui Highlands, surrounded by the towns of Boquete, Volcan and Cerro Punta. The entrance of the Park is in Boquete, where hikes and most tours start from."
+        },
+        {
+            "title":"Chagres National Park",
+            "image": "/img/parks/chagres.jpg",
+            "text": "Home to the forest that shelters the most important river in Panamá, the Chagres River, Chagres National Park consists of 309,000 acres crossed by countless streams and waterfalls that lead to both the Chagres River and Lake Alajuela. The forest is also home to the remains of 30 miles of the Camino Real. Before the canal was built, this colonial route was the only way to transport goods like gold and silver from coast to coast, and you can still see some of the original pavement today.",
+            "getting there": "Chagres National Park is located about 40 miles north of Panama City, and can be accessed by car. The best way to experience Chagres is with a tour operator, as the park itself does not have its own infrastructure."
+        },
+        {
+            "title":"El Caño Archaelogical Park",
+            "image": "/img/parks/cano.jpg",
+            "text": "Travel just 160 kilometers to the southwest of Panama City to discover one of Panamas most important archeological sites. First discovered in 1925, the site at El Caño was not formally investigated until the 1970s, and even then, researchers were only scratching the surface. It was not until the early 2000s that a team led by archeologist Julia Mayo launched a formal re-investigation into the El Caño site. What did they find? Several extensive burial grounds uncovering the existence of a pre-Colombian civilization that may have lived in the area between 700-1000 AD. This epic discovery has been widely reported by National Geographic, and remains part of ongoing archeological research that you can observe for yourself!",
+            "getting there": "El Caño Archaeological Park is a 2.5 hour drive from Panama City in the Province of Coclé, and it is easily accessible by car. There are a variety of tours to the site that include transportation from the city."
+        },
+        {
+            "title":"Coiba National Park",
+            "image": "/img/parks/coiba.jpg",
+            "text": "Declared a UNESCO World Heritage Site in 2005, Coiba Marine Park is a marine reserve located off of Panamas Pacific coast in the Gulf of Chiriquí. Once a penal colony, access to the island was historically limited, allowing much of the areas natural resources to survive untouched. Today, the marine park boasts some of the greatest biological diversity in the world.",
+            "getting there": "To access the park, you will need a permit, which can be obtained with the assistance of tour operators offering fishing, diving and ecotours. The island can be accessed by boat from several locations in Panamá, but the quickest trip is an hour and fifteen-minute boat ride from Santa Catalina in Veraguas."
+        },
+        {
+            "title":"Soberania National Park",
+            "image": "/img/parks/soberania.jpg",
+            "text": "Soberania National Park is the most accessible national park from Panama City and the perfect nature-filled day trip for the whole family. Just 45 minutes from the city, this park sits near the banks of the Panama Canal on the canal zone construction site, and spans 55,000 acres. The park contains dry rainforest, countless animal species, and the Chagres River, which runs through the middle of it.",
+            "getting there": "Soberania National Park is an easy 30-minute car or taxi ride from Panama City."
+        },
+        {
+            "title":"Metropolitan Natural Park",
+            "image": "/img/parks/metropolitan.jpg",
+            "text": "Right in the heart of Panama City sits a 573-acre park known as Metropolitan Natural Park. This nature sanctuary in the midst of a metropolis is the city’s only wildlife preserve, and the only tropical forest to serve as a public recreational park for a metropolitan area. Despite being close to a city, the park is also home to 227 bird species, 45 mammals, 36 kinds of snakes and 14 kinds of amphibians. In addition, there are about 284 plant species, including trees that reach between 100 and 115 feet high.",
+            "getting there": "The park is just a few minutes from downtown Panama City, and can be reached by car or taxi."
+        }
+    ]
+}

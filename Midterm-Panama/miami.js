@@ -33,6 +33,21 @@ app.get('/canal', (req,res) => {
     res.render('page',{data, gallery})
 })
 
+app.get('/viejo', (req,res) => {
+    var data = require('./data/viejo-data.json')
+    res.render('page',{data, gallery})
+})
+
+app.get('/islands', (req,res) => {
+    var data = require('./data/islands-data.json')
+    res.render('page',{data, gallery})
+})
+
+app.get('/parks', (req,res) => {
+    var data = require('./data/parks-data.json')
+    res.render('page',{data, gallery})
+})
+
 
 // This generates an erro rbecause the parameters dont match
 //response is supposed to be res
