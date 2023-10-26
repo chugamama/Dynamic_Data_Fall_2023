@@ -1,7 +1,10 @@
 {
     "title":"Panama Viejo",
     "description":"Venture to the eastern suburbs of Panama City and you will find the remaining parts of the original Panama City and former capital of the country. Now a UNESCO Cultural World Heritage Site, the settlement dates back to 1519, when Pedro Arias Dávila and 100 other inhabitants made it their home. The area now known as Panama Viejo was the first permanent European settlement on the Pacific Ocean.When you get there, explore the archeological site of Panama Viejo to see the Old Panama Cathedral, as well as various historical ruins. Next, climb atop the iconic bell tower and look at the Panama City skyline from the citys original “skyscraper.” As you wander, keep in mind that the layout and scale of Old Panama remain largely unchanged from the original form, and no architectural renovations have been made—this means you will have the rare opportunity to walk through history. While you are there, take some time to shop at the artisan market, where you can pick up local crafts and souvenirs. Credit:tourismpanama",
-    "slideshow": ["/img/slides/panamaviejo.jpg"],
+    "slideshow": [
+        "/img/slides/panamaviejo.jpg",
+        "/img/slides/viejo2.jpg"
+    ],
     "services": [
         {
             "title":"Travel Requirements",

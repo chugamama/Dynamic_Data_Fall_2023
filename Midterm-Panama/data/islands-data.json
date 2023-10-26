@@ -1,7 +1,10 @@
 {
     "title":"Panama's Islands",
     "description":"Panamá features over 1,000 islands in both the Pacific and the Caribbean. A few of them are home to picturesque coastal towns, but most of them are completely uninhabited. In Panamá's islands and archipelagos, you will find breathtaking beaches and miles of protected coral reef, which shelter a wide diversity of marine life. Here are some of Panamá's island destinations. Credit: tourismpanama",
-    "slideshow": ["/img/slides/islas.jpg"],
+    "slideshow": [
+        "/img/slides/islas.jpg",
+        "/img/slides/isla2.jpg"
+    ],
     "services": [
         {
             "title":"Panamanian Cuisine",

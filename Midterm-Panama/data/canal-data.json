@@ -1,7 +1,10 @@
 {
     "title":"The Panama Canal",
     "description":"Arguably the most famous attraction in Panamá is the Panama Canal. As one of the 7 Wonders of the Modern World, the Panama Canal is a must-see for anyone traveling in the country. Built to dramatically decrease the travel time for ships between the Pacific Ocean and the Caribbean Sea, the Canal has seen over 900,000 vessels and counting. At one point this engineering miracle was considered impossible to build, but today, you can see it for yourself. Credit: tourismpanama.com",
-    "slideshow": ["/img/slides/canal.jpg"],
+    "slideshow": [
+        "/img/slides/canal.jpg",
+        "/img/slides/canal2.jpg"
+    ],
     "services": [
         {
             "title":"Transportation",
