@@ -28,6 +28,29 @@
                 "Imax Theater"
             ],
             "image": "/img/canal/tour.jpg"
+        },
+        {
+            "title":"Health Precautions",
+            "intro": "Ensure you are up to date on routine vaccines and consider additional vaccinations, such as hepatitis A and typhoid, depending on your travel plans. It's also wise to carry a basic medical kit.",
+            "list": [
+                "Chickenpox (Varicella)",
+                "Diphtheria-Tetanus-Pertussis",
+                "Flu (influenza)",
+                "Measles-Mumps-Rubella (MMR)",
+                "Polio",
+                "Shingles"
+            ],
+            "image": "/img/canal/vaccine.jpg"
+        },
+        {
+            "title":"Travel Insurance",
+            "intro": "Purchase comprehensive travel insurance that covers medical emergencies, trip cancellations, and theft or loss of belongings.",
+            "list": [
+                "Travel Guard",
+                "Niva Bupa",
+                "Allianz"
+            ],
+            "image": "/img/canal/insurance.jpg"
         }
     ],
     "packages":[

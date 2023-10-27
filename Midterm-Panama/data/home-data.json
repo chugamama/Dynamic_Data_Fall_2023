@@ -32,6 +32,27 @@
                 "Private Airport Transfer Company"
             ],
             "image": "/img/homepage/taxi.jpg"
+        },
+        {
+            "title":"Stay Informed About Local Laws",
+            "intro": "Familiarize yourself with Panama's local laws and regulations, including those related to drugs, alcohol, and customs..",
+            "list": [
+                "Panama's legal drinking age is 18",
+                "Don't use or carry illegal drugs",
+                "Vaping is banned in public spaces and on public transport"
+            ],
+            "image": "/img/homepage/beer.jpg"
+        },
+        {
+            "title":"Wildlife Safety",
+            "intro": "f you're exploring Panama's lush natural landscapes, be cautious around wildlife, as some species may be venomous or carry diseases. Keep a safe distance and do not feed wild animals.",
+            "list": [
+                "Jaguar",
+                "Golden frog",
+                "Sloths",
+                "Sea turtles"
+            ],
+            "image": "/img/homepage/animal.jpg"
         }
     ],
     "packages":[

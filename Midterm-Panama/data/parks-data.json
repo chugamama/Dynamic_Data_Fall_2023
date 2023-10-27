@@ -23,6 +23,26 @@
                 "Chácaras"
             ],
             "image": "/img/parks/souvenirs.jpg"
+        },
+        {
+            "title":"Mosquito Protection",
+            "intro": "Panama is in a tropical zone, so protect yourself against mosquito-borne diseases by using insect repellent and wearing long sleeves and pants.",
+            "list": [
+                "OFF",
+                "Raid",
+                "Repel"
+            ],
+            "image": "/img/parks/mosquito.jpg"
+        },
+        {
+            "title":"Sun Protection",
+            "intro": "Panama's sun can be intense. Use sunscreen, wear a wide-brimmed hat, and protect your skin from sunburn.",
+            "list": [
+                "Sun Bum",
+                "Banana Boat",
+                "Neutrogena"
+            ],
+            "image": "/img/parks/sun.jpg"
         }
     ],
     "packages":[

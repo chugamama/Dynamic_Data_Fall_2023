@@ -74,3 +74,6 @@ app.listen(port, () => {
     //console.log('Server started http://localhost:'+port)
     console.log('To close press Ctrl-C')
 })
+
+// resources:
+// tripadvisor, climateknowledgeportal,exoticca,wikipedia,visitcanaldepanama,tourismpanama,chargpt, pexels, google imgages, unsplash

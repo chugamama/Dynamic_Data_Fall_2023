@@ -28,7 +28,27 @@
                 "Minimum temperature ranges from 20.1°C and 22.4°C.",
                 "Climate variability in Panama is driven mainly by the El Niño Southern Oscillation, tropical cyclones, and sea surface temperatures."
             ],
-            "image": "/img/homepage/climate.jpg"
+            "image": "/img/viejo/climate.jpg"
+        },
+        {
+            "title":"Food and Water Safety",
+            "intro": "While exploring local cuisine, stick to well-established restaurants and avoid eating street food to minimize the risk of foodborne illnesses.",
+            "list": [
+                "Fonda lo que Hay",
+                "El Trapiche",
+                "Donde Jose"
+            ],
+            "image": "/img/viejo/sancocho.jpg"
+        },
+        {
+            "title":"Secure Your Accommodation",
+            "intro": "Lock your hotel or hostel room securely when you're not in it. Use room safes for valuables, and lock your luggage.",
+            "list": [
+                "JW Marriott",
+                "W Panama",
+                "Hotel Riu"
+            ],
+            "image": "/img/viejo/hotel.jpg"
         }
     ],
     "packages":[

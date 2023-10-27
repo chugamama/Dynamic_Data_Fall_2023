@@ -29,6 +29,26 @@
                 "Diving and Snorkeling"
             ],
             "image": "/img/islas/adventure.jpg"
+        },
+        {
+            "title":"Language Skills",
+            "intro": "While many people in Panama speak English, especially in tourist areas, learning some basic Spanish phrases can be immensely helpful in navigating the country and communicating with locals.",
+            "list": [
+                "Duolingo",
+                "Babbel",
+                "Memrise"
+            ],
+            "image": "/img/islas/espanol.jpg"
+        },
+        {
+            "title":"Stay Hydrated",
+            "intro": "Panama's climate can be hot and humid, so stay hydrated by drinking bottled water. Avoid consuming tap water and ice from questionable sources.",
+            "list": [
+                "Liquid IV",
+                "LMNT",
+                "Nuun"
+            ],
+            "image": "/img/islas/lmnt.jpg"
         }
     ],
     "packages":[
