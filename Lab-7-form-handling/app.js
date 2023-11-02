@@ -5,6 +5,12 @@ const expressHandlebars = require('express-handlebars')
 
 const app = express()
 
+const handler = require('./lib/handler')
+
+const bodyParser = require('body-parser')
+
+app.use(bodyParser.urlencoded({extended: true}))
+
 //configure our express app to use handlebars
 app.engine('handlebars', expressHandlebars.engine({
     defaultLayout: 'main'
@@ -28,6 +34,12 @@ app.get('/madprocess', (req,res) =>{
     res.render('madprocess', {req})
 })
 
+app.get('/newsletter-signup',handler.newsletterSignup)
+
+app.post('/newsletter-signup/process', handler.newsletterSignupProcess)
+
+
+//this needs to be the very last thing we have in the file
 //Error handling app.use() basic express route
 app.use((req, res) => {
     res.status(404)
