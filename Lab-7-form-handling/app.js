@@ -38,6 +38,14 @@ app.get('/newsletter-signup',handler.newsletterSignup)
 
 app.post('/newsletter-signup/process', handler.newsletterSignupProcess)
 
+app.get('/newsletter/list', handler.newsletterSignupList)
+
+app.get('/newsletter-signup/newsletter/thankyou',(req,res) =>{
+    res.render('thankyou')})
+
+app.get('/newsletter/details/:email',handler.newsletterUser)
+
+app.get('/newsletter/delete/:email',handler.newsletterUserDelete)
 
 //this needs to be the very last thing we have in the file
 //Error handling app.use() basic express route
