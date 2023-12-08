@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Poppins:wght@400;700&display=swap');
+
+.croissant{font-family: 'Croissant One', cursive;}
+
+.poppins{font-family: 'Poppins', sans-serif; font-weight: 400;}
+.poppins-bold{font-family: 'Poppins', sans-serif; font-weight: 700;}
+
+/* body{
+    background-color: #cccccc;
+}
+*/
+
+.white-bg{
+    background-color: #ffffff;
+}
+
+.primary-color{
+    color:#780000;
+}
+
+.primary-color-light, nav .secondary-color-light:hover{
+    color: #c1121f
+}
+
+.accordion-button:not(.collapsed){
+    color:#003049;
+    background-color: #fdf0d5;
+}
+
+.primary-color-bg{
+    background-color:#fdf0d5;
+}
+
+.primary-color-light-bg{
+    background-color: #c1121f;
+}
+
+.secondary-color{
+    color: #003049;
+}
+
+.secondary-color-light{
+    color: #669bbc;
+}
+
+.secondary-color-bg{
+    background-color: #fdf0d5;
+}
+
+.secondary-color-light-bg{
+    background-color: #669bbc;
+}
+
+/* remove owl-nav previous and next button */
+
+.owl-nav{
+    display: none;
+}
+
+.section-divider{
+    padding: 1rem;
+}
+
+.gallery-img img{
+    object-fit: cover;
+    height: 20rem;
+    aspect-ratio:1 /1;
+}
+
+footer{
+    padding: 3rem;
+}
