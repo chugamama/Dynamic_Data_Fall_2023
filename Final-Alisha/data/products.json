@@ -6,10 +6,10 @@
             "name":"Luna Classic Aviator Sunglasses",
             "price":25.00,
             "images":[
-                {"src":"/img/sunglasses/sunglasses1.1.jpg"},
-                {"src":"/img/sunglasses/sunglasses1.2.jpg"},
-                {"src":"/img/sunglasses/sunglasses1.3.jpg"},
-                {"src":"/img/sunglasses/sunglasses1.4.jpg"}
+                {"src":"/img/sunglasses/sunglasses1.1.jpeg"},
+                {"src":"/img/sunglasses/sunglasses1.2.jpeg"},
+                {"src":"/img/sunglasses/sunglasses1.3.jpeg"},
+                {"src":"/img/sunglasses/sunglasses1.4.jpeg"}
             ],
             "description":"So made for sunny days, these effortlessly cool sunglasses are featured in a classic square-shaped frame and aviator-inspired style with a delicate brow bar, eye-catching tinted lenses, and adjustable nose pads."
         },
@@ -19,142 +19,454 @@
             "name":"Avalon Oval Sunnies",
             "price":25.00,
             "images":[
-                {"src":"/img/sunglasses/sunglasses2.1.jpg"},
-                {"src":"/img/sunglasses/sunglasses2.2.jpg"},
-                {"src":"/img/sunglasses/sunglasses2.3.jpg"},
-                {"src":"/img/sunglasses/sunglasses2.4.jpg"}
+                {"src":"/img/sunglasses/sunglasses2.1.jpeg"},
+                {"src":"/img/sunglasses/sunglasses2.2.jpeg"},
+                {"src":"/img/sunglasses/sunglasses2.3.jpeg"},
+                {"src":"/img/sunglasses/sunglasses2.4.jpeg"}
             ],
             "description":"Add a fun and funky touch to any look with these so cool sunnies featured in a defined oval style with thick frames and super defined sides for added shape and dimension."
         },
         {
             "id":3,
             "category":"sunglasses",
-            "name":"Retro Oversized Square Polarized Sunglasses",
-            "price":14.99,
+            "name":"Dylan Aviator Sunnies",
+            "price":30.00,
             "images":[
-                {"src":"/img/sunglasses/sunglasses3.1.jpg"},
-                {"src":"/img/sunglasses/sunglasses3.2.jpg"},
-                {"src":"/img/sunglasses/sunglasses3.3.jpg"},
-                {"src":"/img/sunglasses/sunglasses3.4.jpg"}
+                {"src":"/img/sunglasses/sunglasses3.1.jpeg"},
+                {"src":"/img/sunglasses/sunglasses3.2.jpeg"},
+                {"src":"/img/sunglasses/sunglasses3.3.jpeg"},
+                {"src":"/img/sunglasses/sunglasses3.4.jpeg"}
             ],
-            "description":"HIGH-DEFINITION UV400 TAC POLARIZED LENSES, Standard sunglasses are great for reducing overall brightness, but they dont do much for glares, those annoying, vision-blocking bursts of light.Polarized sunglasses stop glare from reaching your eyes."
+            "description":"Adding a cool and contemporary touch to a timeless classic, these stunning sunnies are featured in a staple aviator silhouette with ombre-style lenses, defined nose bridge, and exaggerated metal prongs for an added special touch."
         },
         {
             "id":4,
             "category":"sunglasses",
-            "name":"Polarized Aviator Sunglasses Vintage Hexagonal",
-            "price":14.99,
+            "name":"Heart Eyes Sunglasses",
+            "price":25.00,
             "images":[
-                {"src":"/img/sunglasses/sunglasses4.1.jpg"},
-                {"src":"/img/sunglasses/sunglasses4.2.jpg"},
-                {"src":"/img/sunglasses/sunglasses4.3.jpg"},
-                {"src":"/img/sunglasses/sunglasses4.4.jpg"}
+                {"src":"/img/sunglasses/sunglasses4.1.jpeg"},
+                {"src":"/img/sunglasses/sunglasses4.2.jpeg"},
+                {"src":"/img/sunglasses/sunglasses4.3.jpeg"},
+                {"src":"/img/sunglasses/sunglasses4.4.jpeg"}
             ],
-            "description":"These Appassal retro polarized sunglasses are made of high-quality metal frames, reinforced hinges, UV400 polarized lenses, all the details will ensure you a long time using. They are suitable for both men and women and can be match with different styles of apparel and accesso."
+            "description":"Be so heart eyes with these super sweet, playful sunnies."
         },
         {
             "id":5,
             "category":"sunglasses",
-            "name":"Retro Cat Eye Sunglasses",
-            "price":14.99,
+            "name":"INDY Nolita Polarized Sunglasses",
+            "price":79.00,
             "images":[
-                {"src":"/img/sunglasses/sunglasses5.1.jpg"},
-                {"src":"/img/sunglasses/sunglasses5.2.jpg"},
-                {"src":"/img/sunglasses/sunglasses5.3.jpg"},
-                {"src":"/img/sunglasses/sunglasses5.4.jpg"}
+                {"src":"/img/sunglasses/sunglasses5.1.jpeg"},
+                {"src":"/img/sunglasses/sunglasses5.2.jpeg"},
+                {"src":"/img/sunglasses/sunglasses5.3.jpeg"},
+                {"src":"/img/sunglasses/sunglasses5.4.jpeg"}
             ],
-            "description":"The stylish cateye sunglasses are designed in a soft upswept shape, which is a modern interpretation of a classic cat eye style, retro but also in a fashion trend. Pointed outline makes you seem more smart and dynamic. The distinctive sunglasses feature sharp angles and a modern look designed to fit perfectly into the contours of the face."
+            "description":"The perfect luxe pair, these eye-catching glasses are featured in a cat eye silhouette and durable acetate frame with polarized lenses and branded detailing."
         },
         {
             "id":6,
             "category":"sunglasses",
-            "name":"Oversized Cat Eye Sunglassess",
-            "price":14.99,
+            "name":"Alden Polarized Sunglasses",
+            "price":40.00,
             "images":[
-                {"src":"/img/sunglasses/sunglasses6.1.jpg"},
-                {"src":"/img/sunglasses/sunglasses6.2.jpg"},
-                {"src":"/img/sunglasses/sunglasses6.3.jpg"},
-                {"src":"/img/sunglasses/sunglasses6.4.jpg"}
+                {"src":"/img/sunglasses/sunglasses6.1.jpeg"},
+                {"src":"/img/sunglasses/sunglasses6.2.jpeg"},
+                {"src":"/img/sunglasses/sunglasses6.3.jpeg"},
+                {"src":"/img/sunglasses/sunglasses6.4.jpeg"}
             ],
-            "description":"Once you set your sights on these fashion cat eye shades, youll never look back.GLAM features bold frame and thick metal temples,you can wear with anything from jeans to a dress."
+            "description":"Be bold in these square-framed sunnies featuring a tortoise pattern frame and polarized lenses for extra sun protection."
         },
         {
             "id":7,
             "category":"sunglasses",
-            "name":"Rectangle Sunglasses",
-            "price":14.99,
+            "name":"Jenny Rimless Sunglasses",
+            "price":25.00,
             "images":[
-                {"src":"/img/sunglasses/sunglasses7.1.jpg"},
-                {"src":"/img/sunglasses/sunglasses7.2.jpg"},
-                {"src":"/img/sunglasses/sunglasses7.3.jpg"},
-                {"src":"/img/sunglasses/sunglasse7.4.jpg"}
+                {"src":"/img/sunglasses/sunglasses7.1.jpeg"},
+                {"src":"/img/sunglasses/sunglasses7.2.jpeg"},
+                {"src":"/img/sunglasses/sunglasses7.3.jpeg"},
+                {"src":"/img/sunglasses/sunglasse7.4.jpeg"}
             ],
-            "description":"Perfect for in-car use. Filter out the diffuse reflected light in the environment, greatly reducing dazzle light from the ground and enabling better visibility of road conditions.reflection from the ground and enabling better visibility of road conditions."
+            "description":"Less is more: these rimless sunnies feature bare round frames with chunky tort temples for a show-stopping touch."
         },
         {
             "id":8,
             "category":"sunglasses",
-            "name":"Reflective Lens Round",
-            "price":14.99,
+            "name":"Bayview Wide Shield Sunglasses",
+            "price":25.00,
             "images":[
-                {"src":"/img/sunglasses/sunglasses8.1.jpg"},
-                {"src":"/img/sunglasses/sunglasses8.2.jpg"},
-                {"src":"/img/sunglasses/sunglasses8.3.jpg"},
-                {"src":"/img/sunglasses/sunglasses8.4.jpg"}
+                {"src":"/img/sunglasses/sunglasses8.1.jpeg"},
+                {"src":"/img/sunglasses/sunglasses8.2.jpeg"},
+                {"src":"/img/sunglasses/sunglasses8.3.jpeg"},
+                {"src":"/img/sunglasses/sunglasses8.4.jpeg"}
             ],
-            "description":"Crafted with durable five barrel stainless steel hinges and optical-grade materials like Acetate and TR90, our stylish sunglasses are stronger and more flexible than typical plastic frames. With exquisite temples and solid metal hinges, they're both comfortable and long lasting."
+            "description":"Exude effortless edge with these tinted shield sunnies."
         },
         {
             "id":9,
             "category":"sunglasses",
-            "name":"Clout Goggles Sunglasses",
-            "price":14.99,
+            "name":"Black Diamond Polarized Sunglasses",
+            "price":38.00,
             "images":[
-                {"src":"/img/sunglasses/sunglasses9.1.jpg"},
-                {"src":"/img/sunglasses/sunglasses9.2.jpg"},
-                {"src":"/img/sunglasses/sunglasses9.3.jpg"},
-                {"src":"/img/sunglasses/sunglasses9.4.jpg"}
+                {"src":"/img/sunglasses/sunglasses9.1.jpeg"},
+                {"src":"/img/sunglasses/sunglasses9.2.jpeg"},
+                {"src":"/img/sunglasses/sunglasses9.3.jpeg"},
+                {"src":"/img/sunglasses/sunglasses9.4.jpeg"}
             ],
-            "description":"FOURCHEN Vision anti-glare lenses can block 100% of both UVA and UVB radiation. UV400 rated sunglasses is essential to filtering out sunlight reflected glare and protecting your eyes against long term UV damage when you go out."
+            "description":"Dazzle in these so-classic, embellished polarized sunnies."
         },
         {
             "id":10,
             "category":"sunglasses",
-            "name":"Thick Square Frame Sunglasses ",
-            "price":14.99,
+            "name":"Roger Aviator Sunglasses",
+            "price":25.00,
             "images":[
-                {"src":"/img/sunglasses/sunglasses10.1.jpg"},
-                {"src":"/img/sunglasses/sunglasses10.2.jpg"},
-                {"src":"/img/sunglasses/sunglasses10.3.jpg"},
-                {"src":"/img/sunglasses/sunglasses10.4.jpg"}
+                {"src":"/img/sunglasses/sunglasses10.1.jpeg"},
+                {"src":"/img/sunglasses/sunglasses10.2.jpeg"},
+                {"src":"/img/sunglasses/sunglasses10.3.jpeg"},
+                {"src":"/img/sunglasses/sunglasses10.4.jpeg"}
             ],
-            "description":"Fashionable thick square frame sunglasses, timeless classic design, suitable for people of all ages, men's and women's sunglasses will not fade with the passage of time."
+            "description":"Majorly retro, these so cool sunnies are featured in a vintage-inspired aviator design for an effortlessly chic addition to any look."
         },
         {
             "id":11,
             "category":"sunglasses",
-            "name":"Sports Fan Sunglasses",
-            "price":14.99,
+            "name":"Aces Aviator Sunglasses",
+            "price":25.00,
             "images":[
-                {"src":"/img/sunglasses/sunglasses11.1.jpg"},
-                {"src":"/img/sunglasses/sunglasses11.2.jpg"},
-                {"src":"/img/sunglasses/sunglasses11.3.jpg"},
-                {"src":"/img/sunglasses/sunglasses11.4.jpg"}
+                {"src":"/img/sunglasses/sunglasses11.1.jpeg"},
+                {"src":"/img/sunglasses/sunglasses11.2.jpeg"},
+                {"src":"/img/sunglasses/sunglasses11.3.jpeg"},
+                {"src":"/img/sunglasses/sunglasses11.4.jpeg"}
             ],
-            "description":"The one-piece integrated lens and widened lens design add fashion and trend to the sports sunglasses. Different from traditional sports sunglasses such as baseball sunglasses, pickleball sunglasses and tennis ball sunglasses in the past, our cycling sports sunglasses have larger lenses, fewer frames, and stronger wind and water resistance."
+            "description":"Sure to be a staple in your accessories collection for many years to come, these so cool sunglasses are featured in an updated aviator design with uniquely shaped frames and super thin metal detailing for a sleek style."
         },
         {
             "id":12,
             "category":"sunglasses",
-            "name":"80s Asymmetric Glasses Neon Glasses",
-            "price":14.99,
+            "name":"Jenny Rimless Sunglasses",
+            "price":25.00,
             "images":[
-                {"src":"/img/sunglasses/sunglasses12.1.jpg"},
-                {"src":"/img/sunglasses/sunglasses12.2.jpg"},
-                {"src":"/img/sunglasses/sunglasses12.3.jpg"},
-                {"src":"/img/sunglasses/sunglasses12.4.jpg"}
+                {"src":"/img/sunglasses/sunglasses12.1.jpeg"},
+                {"src":"/img/sunglasses/sunglasses12.2.jpeg"},
+                {"src":"/img/sunglasses/sunglasses12.3.jpeg"},
+                {"src":"/img/sunglasses/sunglasses12.4.jpeg"}
             ],
-            "description":"Eye-catching fun sunglasses in asymmetric shapes and different colors on both sides."
+            "description":"Less is more: these rimless sunnies feature bare round frames with chunky tort temples for a show-stopping touch."
+        },
+        {
+            "id":13,
+            "category":"hats",
+            "name":"Bowery Slouchy Lieutenant Hat",
+            "price":38.00,
+            "images":[
+                {"src":"/img/hat/hats1.1.jpeg"},
+                {"src":"/img/hat/hats1.2.jpeg"},
+                {"src":"/img/hat/hats1.3.jpeg"},
+                {"src":"/img/hat/hats1.4.jpeg"}
+            ],
+            "description":"This vintage-inspired lieutenant cap is the perfect go-with-everything accessory."
+        },
+        {
+            "id":14,
+            "category":"hats",
+            "name":"Movement Logo Baseball Cap",
+            "price":30.00,
+            "images":[
+                {"src":"/img/hat/hats2.1.jpeg"},
+                {"src":"/img/hat/hats2.2.jpeg"},
+                {"src":"/img/hat/hats2.3.jpeg"},
+                {"src":"/img/hat/hats2.4.jpeg"}
+            ],
+            "description":"Cap off your workout look with this so sporty baseball hat from FP Movement featuring an embroidered buti on the front."
+        },
+        {
+            "id":15,
+            "category":"hats",
+            "name":"Cowboy Baseball Hat",
+            "price":38.00,
+            "images":[
+                {"src":"/img/hat/hats3.1.jpeg"},
+                {"src":"/img/hat/hats3.2.jpeg"},
+                {"src":"/img/hat/hats3.3.jpeg"},
+                {"src":"/img/hat/hats3.4.jpeg"}
+            ],
+            "description":"Sarcasm rules with this cute foam trucker hat from Sendero Provisions, featuring a 5 panel construction and curved brim, donning the words Cowboy Hat so you can participate in the trend without straying too far from your style.."
+        },
+        {
+            "id":16,
+            "category":"hats",
+            "name":"Soft Turn Felt Cowboy Hat",
+            "price":68.00,
+            "images":[
+                {"src":"/img/hat/hats4.1.jpeg"},
+                {"src":"/img/hat/hats4.2.jpeg"},
+                {"src":"/img/hat/hats4.3.jpeg"},
+                {"src":"/img/hat/hats4.4.jpeg"}
+            ],
+            "description":"Stylish black cowboy hat"
+        },
+        {
+            "id":17,
+            "category":"hats",
+            "name":"Full Moon Nubby Pom Beanie",
+            "price":68.00,
+            "images":[
+                {"src":"/img/hat/hats5.1.jpeg"},
+                {"src":"/img/hat/hats5.2.jpeg"},
+                {"src":"/img/hat/hats5.3.jpeg"},
+                {"src":"/img/hat/hats5.4.jpeg"}
+            ],
+            "description":"Add the ideal touch of texture to your cold weather collection with this timeless beanie featured in a classic knit fabrication with defined ribbed bottom hem and exaggerated faux fur pom pom at top for an added special touch."
+        },
+        {
+            "id":18,
+            "category":"hats",
+            "name":"Yippee Ki Yay Baseball Hat",
+            "price":32.00,
+            "images":[
+                {"src":"/img/hat/hats6.1.jpeg"},
+                {"src":"/img/hat/hats6.2.jpeg"},
+                {"src":"/img/hat/hats6.3.jpeg"},
+                {"src":"/img/hat/hats6.4.jpeg"}
+            ],
+            "description":"Take your hootin’ and hollerin’ to your hat: this cheeky slog-adorned cap from Sendero Provisions is all you need to make a true Western statement."
+        },
+        {
+            "id":19,
+            "category":"hats",
+            "name":"Brixton Fiddler Marine Cap",
+            "price":58.00,
+            "images":[
+                {"src":"/img/hat/hats7.1.jpeg"},
+                {"src":"/img/hat/hats7.2.jpeg"},
+                {"src":"/img/hat/hats7.3.jpeg"},
+                {"src":"/img/hat/hats7.4.jpeg"}
+            ],
+            "description":"A totally timeless style, this charming cap from Brixton is featured in a classic lieutenant design for the perfect dose of vintage-inspired style."
+        },
+        {
+            "id":20,
+            "category":"hats",
+            "name":"Woven Cove Sun Hat",
+            "price":149.00,
+            "images":[
+                {"src":"/img/hat/hats8.1.jpeg"},
+                {"src":"/img/hat/hats8.2.jpeg"},
+                {"src":"/img/hat/hats8.3.jpeg"},
+                {"src":"/img/hat/hats8.4.jpeg"}
+            ],
+            "description":"Sure to be a go-to for all of your sun adventures, this stunning hat is featured in the perfect woven fabrication and dome-down style for added shape."
+        },
+        {
+            "id":21,
+            "category":"hats",
+            "name":"Lake Washed Bucket Hat",
+            "price":38.00,
+            "images":[
+                {"src":"/img/hat/hats9.1.jpeg"},
+                {"src":"/img/hat/hats9.2.jpeg"},
+                {"src":"/img/hat/hats9.3.jpeg"},
+                {"src":"/img/hat/hats9.4.jpeg"}
+            ],
+            "description":"Perfect for outdoor adventures, this so classic bucket hat features a wide, floppy brim in a washed design and straps that tie under the chin."
+        },
+        {
+            "id":22,
+            "category":"hats",
+            "name":"Big Buti Beanie",
+            "price":40.00,
+            "images":[
+                {"src":"/img/hat/hats10.1.jpeg"},
+                {"src":"/img/hat/hats10.2.jpeg"},
+                {"src":"/img/hat/hats10.3.jpeg"},
+                {"src":"/img/hat/hats10.4.jpeg"}
+            ],
+            "description":"Chunky ribbed knit beanie with a wide cuff and oversized embroidered logo detailing."
+        },
+        {
+            "id":23,
+            "category":"hats",
+            "name":"Snow Angel Faux Fur Beanie",
+            "price":48.00,
+            "images":[
+                {"src":"/img/hat/hats11.1.jpeg"},
+                {"src":"/img/hat/hats11.2.jpeg"},
+                {"src":"/img/hat/hats11.3.jpeg"},
+                {"src":"/img/hat/hats11.4.jpeg"}
+            ],
+            "description":"Warm up any look with this luxe hat featured in a stunning faux fur fabrication."
+        },
+        {
+            "id":24,
+            "category":"hats",
+            "name":"Loopy Mango Tweed Edelweiss Pom Beanie",
+            "price":148.00,
+            "images":[
+                {"src":"/img/hat/hats12.1.jpeg"},
+                {"src":"/img/hat/hats12.2.jpeg"},
+                {"src":"/img/hat/hats12.3.jpeg"},
+                {"src":"/img/hat/hats12.4.jpeg"}
+            ],
+            "description":"Add a special touch to your winter wardrobe with this stylish beanie featured in a chunky knit design with cuffed bottom hem, patch logo at front, and fun pom detail at top for a little something extra."
+        },
+        {
+            "id":25,
+            "category":"hairaccessories",
+            "name":"Petite Bow",
+            "price":12.00,
+            "images":[
+                {"src":"/img/hair/hair1.1.jpeg"},
+                {"src":"/img/hair/hair1.2.jpeg"},
+                {"src":"/img/hair/hair1.3.jpeg"},
+                {"src":"/img/hair/hair1.4.jpeg"}
+            ],
+            "description":"Put the finishing touch on your tresses with this feminine accessory that features a dainty satin bow with an easy clip closure for all-day wear."
+        },
+        {
+            "id":26,
+            "category":"hairaccessories",
+            "name":"Mini Fine Hair Claw",
+            "price":18.00,
+            "images":[
+                {"src":"/img/hair/hair2.1.jpeg"},
+                {"src":"/img/hair/hair2.2.jpeg"},
+                {"src":"/img/hair/hair2.3.jpeg"},
+                {"src":"/img/hair/hair2.4.jpeg"}
+            ],
+            "description":"So sweet and petite, this mini claw clip is the perfect added detail to any do."
+        },
+        {
+            "id":27,
+            "category":"hairaccessories",
+            "name":"Rosemary's Rose Set Of 6 Clips",
+            "price":18.00,
+            "images":[
+                {"src":"/img/hair/hair3.1.jpeg"},
+                {"src":"/img/hair/hair3.2.jpeg"},
+                {"src":"/img/hair/hair3.3.jpeg"},
+                {"src":"/img/hair/hair3.4.jpeg"}
+            ],
+            "description":"Add a romantic touch to your tresses with these mini rosette clips."
+        },
+        {
+            "id":28,
+            "category":"hairaccessories",
+            "name":"Smitten Faux Fur Earmuffs",
+            "price":48.00,
+            "images":[
+                {"src":"/img/hair/hair4.1.jpeg"},
+                {"src":"/img/hair/hair4.2.jpeg"},
+                {"src":"/img/hair/hair4.3.jpeg"},
+                {"src":"/img/hair/hair4.4.jpeg"}
+            ],
+            "description":"Cozy yet chic, these soft earmuffs are featured in a fuzzy faux fur fabrication perfect for keeping your ears warm in the winter."
+        },
+        {
+            "id":29,
+            "category":"hairaccessories",
+            "name":"That Simple Velvet Hard Headband",
+            "price":24.00,
+            "images":[
+                {"src":"/img/hair/hair5.1.jpeg"},
+                {"src":"/img/hair/hair5.2.jpeg"},
+                {"src":"/img/hair/hair5.3.jpeg"},
+                {"src":"/img/hair/hair5.4.jpeg"}
+            ],
+            "description":"You will look instantly put together when you wear this twisted velvet hard headband.."
+        },
+        {
+            "id":30,
+            "category":"hairaccessories",
+            "name":"Show Stopper Bow Hard Headband",
+            "price":48.00,
+            "images":[
+                {"src":"/img/hair/hair6.1.jpeg"},
+                {"src":"/img/hair/hair6.2.jpeg"},
+                {"src":"/img/hair/hair6.3.jpeg"},
+                {"src":"/img/hair/hair6.4.jpeg"}
+            ],
+            "description":"Shine on with this delicate, rhinestone-adorned headband, featuring bow and pearl accents for a sweet, femme touch."
+        },
+        {
+            "id":31,
+            "category":"hairaccessories",
+            "name":"Chimmi Chantilly Hair Pin",
+            "price":10.00,
+            "images":[
+                {"src":"/img/hair/hair7.1.jpeg"},
+                {"src":"/img/hair/hair7.2.jpeg"},
+                {"src":"/img/hair/hair7.3.jpeg"},
+                {"src":"/img/hair/hair7.4.jpeg"}
+            ],
+            "description":"Twist your hair up and away with this sweet U-shaped hair pin."
+        },
+        {
+            "id":32,
+            "category":"hairaccessories",
+            "name":"Embellished Metal Etched Barrettes",
+            "price":18.00,
+            "images":[
+                {"src":"/img/hair/hair8.1.jpeg"},
+                {"src":"/img/hair/hair8.2.jpeg"},
+                {"src":"/img/hair/hair8.3.jpeg"},
+                {"src":"/img/hair/hair8.4.jpeg"}
+            ],
+            "description":"Add a special touch to your daily hair-do with these stunning barrettes featured in a staple silhouette and jewel-adorned design."
+        },
+        {
+            "id":33,
+            "category":"hairaccessories",
+            "name":"Pearl Maisie Headband",
+            "price":158.00,
+            "images":[
+                {"src":"/img/hair/hair9.1.jpeg"},
+                {"src":"/img/hair/hair9.2.jpeg"},
+                {"src":"/img/hair/hair9.3.jpeg"},
+                {"src":"/img/hair/hair9.4.jpeg"}
+            ],
+            "description":"So perfect in pearl, this feminine headband is featured in a thin style and stretchy fit with stunning glass pearl embellishments, crystal flower beads, and woven silk ribbon."
+        },
+        {
+            "id":34,
+            "category":"hairaccessories",
+            "name":"Ariana Ost Dripping Stones Hair Tie",
+            "price":48.00,
+            "images":[
+                {"src":"/img/hair/hair10.1.jpeg"},
+                {"src":"/img/hair/hair10.2.jpeg"},
+                {"src":"/img/hair/hair10.3.jpeg"},
+                {"src":"/img/hair/hair10.4.jpeg"}
+            ],
+            "description":"A unique way to elevate your updo, this so stunning hair tie features dangling stone pendants from a delicate chain and wire-wrapped elastic for effortlessly eye-catching adornment."
+        },
+        {
+            "id":35,
+            "category":"hairaccessories",
+            "name":"Dolly's Jumbo Scrunchie",
+            "price":18.00,
+            "images":[
+                {"src":"/img/hair/hair11.1.jpeg"},
+                {"src":"/img/hair/hair11.2.jpeg"},
+                {"src":"/img/hair/hair11.3.jpeg"},
+                {"src":"/img/hair/hair11.4.jpeg"}
+            ],
+            "description":"Make a dainty statement with this jumbo, semi-sheer scrunchie."
+        },
+        {
+            "id":36,
+            "category":"hairaccessories",
+            "name":"Pias Bow Headband",
+            "price":30.00,
+            "images":[
+                {"src":"/img/hair/hair12.1.jpeg"},
+                {"src":"/img/hair/hair12.2.jpeg"},
+                {"src":"/img/hair/hair12.3.jpeg"},
+                {"src":"/img/hair/hair12.4.jpeg"}
+            ],
+            "description":"Its bows galore with this thin hard headband."
         }
     ]
 }

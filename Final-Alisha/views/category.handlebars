@@ -1,8 +1,10 @@
 <div class="row">
 {{#each category}}
-<h1>{{this.name}}</h1>
-<p>{{this.image}}</p>
+<h1 class="text-center">{{this.name}}</h1>
+<img src="{{image}}" class="img-fluid" alt="">
 {{/each}}
+
+<div class="row align-items-end">
 {{#each products}}
 <div class="col col-lg-3 card">
     <br> {{#each images}} {{#if @first}} 
@@ -15,5 +17,5 @@
     </div>
 </div>
 {{/each}}
-
+</div>
 </div>

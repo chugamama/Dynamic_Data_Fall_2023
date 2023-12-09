@@ -2,16 +2,16 @@
     {
         "name":"Hats",
         "url":"hats",
-        "image":"/slides/sunglasses.png"
+        "image":"/img/slides/hat.jpg"
     },    
     {
         "name":"Sunglasses",
         "url":"sunglasses",
-        "image":"/slides/sunglassesbanner.png"
+        "image":"/img/slides/sunglassesbanner.jpg"
     },
     {
         "name":"Hair Accessories",
         "url":"hairaccessories",
-        "image":"/slides/electronics.png"
+        "image":"/img/slides/hair.jpg"
     }
 ]}

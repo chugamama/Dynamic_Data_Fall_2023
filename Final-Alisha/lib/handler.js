@@ -51,29 +51,22 @@ exports.showCategory = (req,res) => {
 }
 
 exports.addToCartProcess = (req,res) => {
-    //Hint 
 
-    //Build a new json object that has the full information
-    //of all products in the cart 
+    var json = JSON.stringify(cart)
 
-    //first get all products in the catalog
     const allProducts = require('../data/products.json')
-    
-    //create a filter of allProducts 
 
-    //see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+    const cartProducts = allProducts.items.filter((product) => {
+        return product.id == req.para,s.id
+    });
 
     console.log(req.body)
 
-    //the push method adds items to an array
     cart.products.push(req.body)
 
-    //after the cart has been populated create a new json object
-    //containg all the product information with the items in the cart
     var tempProducts = {}
 
     res.render("cart",{"cartProducts":cart.products})
-
 
 }
 
