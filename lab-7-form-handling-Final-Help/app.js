@@ -19,7 +19,7 @@ app.engine('handlebars', expressHandlebars.engine({
 app.set('view engine','handlebars')
 //ends handlebar configuration
 
-const port = process.env.port || 3000
+const port = process.env.port || 9000
 
 const emails = []
 

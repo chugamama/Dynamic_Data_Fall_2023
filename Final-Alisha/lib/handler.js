@@ -4,10 +4,6 @@ let cart = {"products":[]}
 
 const fs = require("fs")
 
-exports.newsletterSignup = (req,res) => {
-    res.render('newsletter-signup', { csrf : 'supersecret'  })
-}
-
 exports.newsletterSignupProcess = (req,res) => {
 
     //Then we do something here
@@ -24,25 +20,6 @@ exports.newsletterSignupProcess = (req,res) => {
 
     res.redirect(303,'/newsletter/thankyou')
 
-}
-
-exports.newsletterSignupList = (req,res) => {
-    console.log(eList)
-    eList = require('../data/emails.json')
-    res.render('userspage', { "users": eList.users  })
-}
-
-exports.newsletterUser = (req,res) => { 
-    console.log(eList)
-
-
-
-    var userDetails = eList.users.filter((user)=>{ 
-        return user.email == req.params.email
-     })
-
-     console.log(userDetails)
-    res.render('userdetails',{"users": userDetails})
 }
 
 exports.showProduct = (req,res) => { 

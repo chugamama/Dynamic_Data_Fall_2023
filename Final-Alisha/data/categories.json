@@ -1,11 +1,17 @@
 {"categories":[
     {
-        "name":"Cosmetics",
-        "url":"cosmetics",
-        "image":"/images/cosmetics.png"
-    },    {
-        "name":"Electronics",
-        "url":"electronics",
-        "image":"/images/electronics.png"
+        "name":"Hats",
+        "url":"hats",
+        "image":"/slides/sunglasses.png"
+    },    
+    {
+        "name":"Sunglasses",
+        "url":"sunglasses",
+        "image":"/slides/sunglassesbanner.png"
+    },
+    {
+        "name":"Hair Accessories",
+        "url":"hairaccessories",
+        "image":"/slides/electronics.png"
     }
 ]}

@@ -1,41 +1,160 @@
 {
     "items":[
         {
-            "id":31,
-            "category":"cosmetics",
-            "name":"Eyeliner",
-            "price":29.99,
+            "id":1,
+            "category":"sunglasses",
+            "name":"Luna Classic Aviator Sunglasses",
+            "price":25.00,
             "images":[
-                {"src":"/images/image1.jpg"},
-                {"src":"/images/image2.jpg"},
-                {"src":"/images/image3.jpg"}
+                {"src":"/img/sunglasses/sunglasses1.1.jpg"},
+                {"src":"/img/sunglasses/sunglasses1.2.jpg"},
+                {"src":"/img/sunglasses/sunglasses1.3.jpg"},
+                {"src":"/img/sunglasses/sunglasses1.4.jpg"}
             ],
-            "description":"Product changes tv channels and volume"
+            "description":"So made for sunny days, these effortlessly cool sunglasses are featured in a classic square-shaped frame and aviator-inspired style with a delicate brow bar, eye-catching tinted lenses, and adjustable nose pads."
         },
         {
-            "id":33,
-            "category":"electronics",
-            "name":"Remote Control",
-            "price":29.99,
+            "id":2,
+            "category":"sunglasses",
+            "name":"Avalon Oval Sunnies",
+            "price":25.00,
             "images":[
-                {"src":"/images/image1.jpg"},
-                {"src":"/images/image2.jpg"},
-                {"src":"/images/image3.jpg"}
+                {"src":"/img/sunglasses/sunglasses2.1.jpg"},
+                {"src":"/img/sunglasses/sunglasses2.2.jpg"},
+                {"src":"/img/sunglasses/sunglasses2.3.jpg"},
+                {"src":"/img/sunglasses/sunglasses2.4.jpg"}
             ],
-            "description":"Product changes tv channels and volume"
+            "description":"Add a fun and funky touch to any look with these so cool sunnies featured in a defined oval style with thick frames and super defined sides for added shape and dimension."
         },
         {
-            "id":34,
-            "category":"electronics",
-            "name":"Television",
-            "price":299.99,
+            "id":3,
+            "category":"sunglasses",
+            "name":"Retro Oversized Square Polarized Sunglasses",
+            "price":14.99,
             "images":[
-                {"src":"/images/image1.jpg"},
-                {"src":"/images/image2.jpg"},
-                {"src":"/images/image3.jpg"}
+                {"src":"/img/sunglasses/sunglasses3.1.jpg"},
+                {"src":"/img/sunglasses/sunglasses3.2.jpg"},
+                {"src":"/img/sunglasses/sunglasses3.3.jpg"},
+                {"src":"/img/sunglasses/sunglasses3.4.jpg"}
             ],
-            "description":"Large tv with stand"
+            "description":"HIGH-DEFINITION UV400 TAC POLARIZED LENSES, Standard sunglasses are great for reducing overall brightness, but they dont do much for glares, those annoying, vision-blocking bursts of light.Polarized sunglasses stop glare from reaching your eyes."
+        },
+        {
+            "id":4,
+            "category":"sunglasses",
+            "name":"Polarized Aviator Sunglasses Vintage Hexagonal",
+            "price":14.99,
+            "images":[
+                {"src":"/img/sunglasses/sunglasses4.1.jpg"},
+                {"src":"/img/sunglasses/sunglasses4.2.jpg"},
+                {"src":"/img/sunglasses/sunglasses4.3.jpg"},
+                {"src":"/img/sunglasses/sunglasses4.4.jpg"}
+            ],
+            "description":"These Appassal retro polarized sunglasses are made of high-quality metal frames, reinforced hinges, UV400 polarized lenses, all the details will ensure you a long time using. They are suitable for both men and women and can be match with different styles of apparel and accesso."
+        },
+        {
+            "id":5,
+            "category":"sunglasses",
+            "name":"Retro Cat Eye Sunglasses",
+            "price":14.99,
+            "images":[
+                {"src":"/img/sunglasses/sunglasses5.1.jpg"},
+                {"src":"/img/sunglasses/sunglasses5.2.jpg"},
+                {"src":"/img/sunglasses/sunglasses5.3.jpg"},
+                {"src":"/img/sunglasses/sunglasses5.4.jpg"}
+            ],
+            "description":"The stylish cateye sunglasses are designed in a soft upswept shape, which is a modern interpretation of a classic cat eye style, retro but also in a fashion trend. Pointed outline makes you seem more smart and dynamic. The distinctive sunglasses feature sharp angles and a modern look designed to fit perfectly into the contours of the face."
+        },
+        {
+            "id":6,
+            "category":"sunglasses",
+            "name":"Oversized Cat Eye Sunglassess",
+            "price":14.99,
+            "images":[
+                {"src":"/img/sunglasses/sunglasses6.1.jpg"},
+                {"src":"/img/sunglasses/sunglasses6.2.jpg"},
+                {"src":"/img/sunglasses/sunglasses6.3.jpg"},
+                {"src":"/img/sunglasses/sunglasses6.4.jpg"}
+            ],
+            "description":"Once you set your sights on these fashion cat eye shades, youll never look back.GLAM features bold frame and thick metal temples,you can wear with anything from jeans to a dress."
+        },
+        {
+            "id":7,
+            "category":"sunglasses",
+            "name":"Rectangle Sunglasses",
+            "price":14.99,
+            "images":[
+                {"src":"/img/sunglasses/sunglasses7.1.jpg"},
+                {"src":"/img/sunglasses/sunglasses7.2.jpg"},
+                {"src":"/img/sunglasses/sunglasses7.3.jpg"},
+                {"src":"/img/sunglasses/sunglasse7.4.jpg"}
+            ],
+            "description":"Perfect for in-car use. Filter out the diffuse reflected light in the environment, greatly reducing dazzle light from the ground and enabling better visibility of road conditions.reflection from the ground and enabling better visibility of road conditions."
+        },
+        {
+            "id":8,
+            "category":"sunglasses",
+            "name":"Reflective Lens Round",
+            "price":14.99,
+            "images":[
+                {"src":"/img/sunglasses/sunglasses8.1.jpg"},
+                {"src":"/img/sunglasses/sunglasses8.2.jpg"},
+                {"src":"/img/sunglasses/sunglasses8.3.jpg"},
+                {"src":"/img/sunglasses/sunglasses8.4.jpg"}
+            ],
+            "description":"Crafted with durable five barrel stainless steel hinges and optical-grade materials like Acetate and TR90, our stylish sunglasses are stronger and more flexible than typical plastic frames. With exquisite temples and solid metal hinges, they're both comfortable and long lasting."
+        },
+        {
+            "id":9,
+            "category":"sunglasses",
+            "name":"Clout Goggles Sunglasses",
+            "price":14.99,
+            "images":[
+                {"src":"/img/sunglasses/sunglasses9.1.jpg"},
+                {"src":"/img/sunglasses/sunglasses9.2.jpg"},
+                {"src":"/img/sunglasses/sunglasses9.3.jpg"},
+                {"src":"/img/sunglasses/sunglasses9.4.jpg"}
+            ],
+            "description":"FOURCHEN Vision anti-glare lenses can block 100% of both UVA and UVB radiation. UV400 rated sunglasses is essential to filtering out sunlight reflected glare and protecting your eyes against long term UV damage when you go out."
+        },
+        {
+            "id":10,
+            "category":"sunglasses",
+            "name":"Thick Square Frame Sunglasses ",
+            "price":14.99,
+            "images":[
+                {"src":"/img/sunglasses/sunglasses10.1.jpg"},
+                {"src":"/img/sunglasses/sunglasses10.2.jpg"},
+                {"src":"/img/sunglasses/sunglasses10.3.jpg"},
+                {"src":"/img/sunglasses/sunglasses10.4.jpg"}
+            ],
+            "description":"Fashionable thick square frame sunglasses, timeless classic design, suitable for people of all ages, men's and women's sunglasses will not fade with the passage of time."
+        },
+        {
+            "id":11,
+            "category":"sunglasses",
+            "name":"Sports Fan Sunglasses",
+            "price":14.99,
+            "images":[
+                {"src":"/img/sunglasses/sunglasses11.1.jpg"},
+                {"src":"/img/sunglasses/sunglasses11.2.jpg"},
+                {"src":"/img/sunglasses/sunglasses11.3.jpg"},
+                {"src":"/img/sunglasses/sunglasses11.4.jpg"}
+            ],
+            "description":"The one-piece integrated lens and widened lens design add fashion and trend to the sports sunglasses. Different from traditional sports sunglasses such as baseball sunglasses, pickleball sunglasses and tennis ball sunglasses in the past, our cycling sports sunglasses have larger lenses, fewer frames, and stronger wind and water resistance."
+        },
+        {
+            "id":12,
+            "category":"sunglasses",
+            "name":"80s Asymmetric Glasses Neon Glasses",
+            "price":14.99,
+            "images":[
+                {"src":"/img/sunglasses/sunglasses12.1.jpg"},
+                {"src":"/img/sunglasses/sunglasses12.2.jpg"},
+                {"src":"/img/sunglasses/sunglasses12.3.jpg"},
+                {"src":"/img/sunglasses/sunglasses12.4.jpg"}
+            ],
+            "description":"Eye-catching fun sunglasses in asymmetric shapes and different colors on both sides."
         }
-        
     ]
 }

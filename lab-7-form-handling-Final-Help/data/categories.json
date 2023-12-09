@@ -4,8 +4,8 @@
         "url":"cosmetics",
         "image":"/images/cosmetics.png"
     },    {
-        "name":"Electronics",
-        "url":"electronics",
+        "name":"sunglasses",
+        "url":"sunglasses",
         "image":"/images/electronics.png"
     }
 ]}
