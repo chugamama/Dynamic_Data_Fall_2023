@@ -56,9 +56,9 @@ exports.addToCartProcess = (req,res) => {
 
     const allProducts = require('../data/products.json')
 
-    const cartProducts = allProducts.items.filter((product) => {
-        return product.id == req.para,s.id
-    });
+    //const cartProducts = allProducts.items.filter((product) => {
+   //     return product.id == req.para,s.id
+   // });
 
     console.log(req.body)
 
